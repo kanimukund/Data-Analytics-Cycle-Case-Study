@@ -67,7 +67,7 @@ Visualizations were developed in Google Data Studio to observe differential tren
 
 
 ### Weekly distribution of average ride duration
-![line_chart_2](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/line_chart_2.PNG)
+![line_chart_2](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/line_chart_2.png)
 #### **Insights**
 * The average ride duration of casual members is  about __3 times__ that of annual members.
 * The average ride duration both type of riders increase on weekends.
