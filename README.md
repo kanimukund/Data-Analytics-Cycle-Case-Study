@@ -59,7 +59,7 @@ Visualizations were developed in Google Data Studio to observe differential tren
 
 
 ### Weekly distribution of number of rides
-![line_chart_1](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/line_chart_1.PNG)
+![line_chart_1](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/line_chart_1.png)
 #### **Insights**
 * Clearly, the rides taken by casual riders __peak__ throughout the __weekend__ as compared to that of annual members which remains relatively flat. 
 * About __50% less__ casual riders use the rentals during weekdays as compared to weekends.  
