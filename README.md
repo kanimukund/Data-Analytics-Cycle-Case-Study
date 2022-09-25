@@ -59,7 +59,7 @@ Visualizations were developed in Google Data Studio to observe differential tren
 
 
 ### Weekly distribution of number of rides
-![line_chart_1](viz/line_chart_1.PNG)
+![line_chart_1](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/line_chart_1.PNG)
 #### **Insights**
 * Clearly, the rides taken by casual riders __peak__ throughout the __weekend__ as compared to that of annual members which remains relatively flat. 
 * About __50% less__ casual riders use the rentals during weekdays as compared to weekends.  
@@ -67,7 +67,7 @@ Visualizations were developed in Google Data Studio to observe differential tren
 
 
 ### Weekly distribution of average ride duration
-![line_chart_2](viz/line_chart_2.PNG)
+![line_chart_2](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/line_chart_2.PNG)
 #### **Insights**
 * The average ride duration of casual members is  about __3 times__ that of annual members.
 * The average ride duration both type of riders increase on weekends.
@@ -75,14 +75,14 @@ Visualizations were developed in Google Data Studio to observe differential tren
 
 
 ### Ride duration vs Ride distance
-![bars](viz/bars_dist_duration.PNG)
+![bars](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/bars_dist_duration.PNG)
 #### **Insights**
 * The plots clearly show the contrast between average ride duration and average ride distance  for both user types. 
 * While both user types ride a __similar average distance__, casual riders ride for __3x longer duration__ as compared to annual members.     
 
 
 ### Hourly distribution of number of rides
-![bar_hour](viz/bar_hour.PNG)
+![bar_hour](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/bar_hour.PNG)
 #### **Insights**
 * The proportion of casual riders increases in the non-commuting hours i.e. in forenoon hours and after 8pm from __18%__ of total riders to __50%__ of total riders.
 * Annual members take the major chunk of the rides during peak-travel hours in the morning and evening to upto __82%__ of total riders. 
@@ -90,7 +90,7 @@ Visualizations were developed in Google Data Studio to observe differential tren
 
 
 ### Monthly distribution of number of rides - Seasonality 
-![bar_season](viz/bar_season.PNG)
+![bar_season](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/bar_season.PNG)
 #### **Insights**
 * The proportion of casual riders __falls__ drastically during winter months(Dec-Feb) to only about __20%__ of total riders.
 * The proportion of casual riders goes __maximum__ in the months of June, July, August and September to upto __40%__ of total riders.  
