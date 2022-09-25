@@ -51,7 +51,7 @@ Visualizations were developed in Google Data Studio to observe differential tren
 
 
 ### Total ride share
-![piechart](Data-Analytics-Cycle-Case-Study/pie_chart.png)
+![piechart]([Data-Analytics-Cycle-Case-Study/pie_chart.png](https://github.com/kanimukund/Data-Analytics-Cycle-Case-Study/blob/main/pie_chart.png))
 #### **Insights**
 * 58.6% of total rides (3.4M) were taken by annual members.
 * 41.4% of total rides were taken by casual riders.
